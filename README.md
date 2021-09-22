@@ -1,2 +1,10 @@
 # my-testnet-archive
-Blockchain project testnets that I am a participant in
+Axelar Network
+Aleo
+NYM
+Casper DevXDao
+Spacemesh
+
+
+
+
